@@ -20,7 +20,7 @@
  *  
  * */
 
-echo "<h1>Revisando protección</h1>";
+echo "<h1>Revisando protección...</h1>";
 
 echo phpinfo();
 
